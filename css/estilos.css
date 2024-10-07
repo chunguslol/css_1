@@ -8,37 +8,40 @@ p{
 div{
     background-color: rgb(186, 19, 44);
 } */
-.caja1 {
+/* .caja1{
     width: 150px;
     height: 150px;
     background-color: rgb(89, 17, 16);
 }
 
-/* .caja2 {
-    width: 50px;
-    height: 50px;
+.caja2{
+    width: 250px;
+    height: 250px;
     background-color: #FFA500;
 }
 
-.caja3 {
-    width: 50px;
-    height: 50px;
+.caja3{
+    width: 350px;
+    height: 350px;
     background-color: hsl(30, 100%, 50%);
 } */
 
+.caja1{
+    color: red;
+}
 
-#foo {
+#foo{
     color: orange;
 }
 
-a[title] {
-    color: green;
+a[title]{
+    color:green;
 }
 
-button:hover {
+button:hover{
     background-color: aquamarine;
 }
 
-input:disabled {
-    border: 2px solid orange;
+input:disabled{
+    border: 2px solid orange;
 }
